@@ -1,7 +1,7 @@
-<h2 align="center"> ✨ PowerShell_Payloads_Test ✨ </h2>
+<h2 align="center"> ✨ All my badusb folders ✨ </h2>
 
 ```zsh
-> Flipper_zero_BadUSB ⭐
+> All my badusb folders ⭐
 ```
 ```zsh
     _________                                                  ____            ____  _______ ____ 
